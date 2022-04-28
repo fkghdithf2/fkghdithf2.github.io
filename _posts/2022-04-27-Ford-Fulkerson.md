@@ -289,6 +289,8 @@ B->Z로 흐른 유량: 3
 누적 유량은 3
 
 ```
+결과에 대한 그림
 
+![결과1](https://user-images.githubusercontent.com/63089470/165764653-723ed452-dc45-4926-9ac0-463c607a8180.jpg)
 
 ---

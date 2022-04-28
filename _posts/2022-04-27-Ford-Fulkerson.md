@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ford-Fulkerson"
-date:   2022-04-27 20:12:04 +0900
+date:   2022-04-28 20:12:04 +0900
 categories: jekyll update
 ---
 
